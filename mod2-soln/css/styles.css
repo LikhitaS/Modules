@@ -8,6 +8,10 @@
 	position: relative;
 	overflow: auto;
 }
+body
+{
+	background-color:#fffde7;
+}
 h1{
 	position: relative;
 	font-size: 175%;
