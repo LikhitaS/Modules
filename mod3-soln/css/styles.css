@@ -1,0 +1,34 @@
+body
+{
+	background-color: #403f7fed;
+}
+.bg-light
+{
+	background-color: #7474a9 !important;
+}
+
+ul
+{
+	background-color: #505076;
+
+}
+li
+{
+	color: black;
+	text-align: center;
+	border-bottom: 1px solid black;
+
+}
+h2
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#content
+{
+	width:90%;
+}
+.col-lg-12, .col-md-12, .col-sm-12
+{
+	background-color: #cccdde;
+}
